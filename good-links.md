@@ -4,7 +4,7 @@
 
 [readme.so](https://readme.so/) The easiest way to create a readme
 
-[Gitmoji] https://gitmoji.dev/
+[Gitmoji 😀] (https://gitmoji.dev/)
 
 
 ## Validation
@@ -17,13 +17,13 @@
 
 ## Övrigt 
 
-[AI-bildverktyg 🖼️] https://designer.microsoft.com/image-creator
+[AI-bildverktyg 🖼️] (https://designer.microsoft.com/image-creator)
 
-[Färgpalettverktyg 🎨] https://coolors.co/
+[Färgpalettverktyg 🎨] (https://coolors.co/)
 
 
 ## Jenni Pullis länkar
 
-[Jennis configs] https://github.com/postmodernistx/configs
+[Jennis configs] (https://github.com/postmodernistx/configs)
 
 [Jennis repo-devlove](https://github.com/postmodernistx/devlove/blob/main/README.md)
