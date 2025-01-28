@@ -1,0 +1,5 @@
+"semi": true,                   // Sätt semikolon i slutet av varje rad
+"singleQuote": true,             // Använd enkla citattecken istället för dubbla
+"trailingComma": "es5",          // Lägg till ett kommatecken efter det sista elementet i objekt och arrayer (ES5-kompatibelt)
+"tabWidth": 2,                   // Sätt bredden på en tab till 2
+"printWidth": 120,               // Ökar maxbredden på varje rad till 120 tecken
