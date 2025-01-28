@@ -4,7 +4,7 @@
 
 [readme.so](https://readme.so/) The easiest way to create a readme
 
-[Gitmoji 😀] https://gitmoji.dev/
+[Gitmoji] https://gitmoji.dev/
 
 
 ## Validation
